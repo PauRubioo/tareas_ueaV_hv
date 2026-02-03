@@ -1,0 +1,25 @@
+body{
+    background-color: #ce7ef6;
+color: #9c67ff;
+font-size: 40px;
+}
+
+h1{
+    color: #00FFFF;
+}
+
+p{
+    color: #0000FF;
+}
+div{
+    background-color: #AAAA;
+    padding: 20px;
+    border-style: dotted;
+    border-width: 5px;
+    border-color: #5784ff;
+    border-radius: 15px;
+    margin-right: 1470px;
+}
+ img{
+    border-radius: 10%;
+ }
