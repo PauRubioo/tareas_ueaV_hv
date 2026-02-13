@@ -1,6 +1,6 @@
 body{
-    background-color: #ce7ef6;
-color: #9c67ff;
+    background-color: #f7e8ff;
+color: #eeeeef;
 font-size: 40px;
 }
 
@@ -20,6 +20,6 @@ div{
     border-radius: 15px;
     margin-right: 1470px;
 }
- img{
+ .imgRound{
     border-radius: 10%;
  }
