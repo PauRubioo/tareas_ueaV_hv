@@ -23,3 +23,21 @@ div{
  .imgRound{
     border-radius: 10%;
  }
+ .fotos{
+    background-color: #5784ff;
+    border-style: none;
+    margin:0px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+ }
+
+ a{
+    color: #485476;
+ }
+.divGral{
+    border-style: none;
+    margin:0px;
+    padding: 10px;
+ }
+
