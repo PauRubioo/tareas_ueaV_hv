@@ -1,3 +1,4 @@
-# tareas_ueaV_hv
-Tareas unidad III
-Probando el repositorio
+# Tareas UEA V
+Paulina estudiante de la Licenciatura en Arte y comunicación Digitales, UAM Lerma 2026.
+# contenido 
+Este repositorio contiene actividades y aprendizajes de la UEA V
