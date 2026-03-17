@@ -1,0 +1,20 @@
+body{
+background-color: #2d79d7;
+color: #658ec0;
+font-size: 100px;
+}
+p{
+    color: #0909bc;
+}
+div{
+    background-color: #c07be8aa;
+    padding: 5px;
+    border-style: double;
+    border-width: 10px;
+    border-color: #5784ff;
+    border-radius: 50px;
+    margin: 50px;
+}
+ img{
+    border-radius: 50%;
+ }
