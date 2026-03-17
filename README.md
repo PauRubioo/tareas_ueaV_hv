@@ -1,5 +1,13 @@
-# Tareas UEA V
-Paulina estudiante de la Licenciatura en Arte y comunicación Digitales, UAM Lerma 2026.
-# contenido 
-Este repositorio contiene actividades y aprendizajes de la UEA V
-## Relación con las 
+# PAULINA
+- Paulina Rubio
+- UEA V
+- Licenciatura en Arte y Comunicación Digitales
+- 5to Trimestre
+
+# Contenido 
+Este repositorio contiene actividades y aprendizajes de la UEA V.
+Aquí mostrare un poco sobre mi trabajo con código y programación en este trimestre, donde he aplicado conceptos y tecnicas aprendidas en la UEA.
+Mi repositorio se enfoca en el desarrollo de proyectos y ejercicios relacionados con la programación web,especificamente usando HTML, CSS y muchos mas lenguajes de programación.
+El objetivo de este repositorio es mostrar el avance 
+## Web
+En cuanto a mi relación con la tecnología web, he notado que usar herramienta

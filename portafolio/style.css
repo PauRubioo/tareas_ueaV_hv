@@ -9,7 +9,7 @@ h1{
 }
 
 p{
-    margin: left 20px;
+    margin-left:20px;
     margin-right: 20px;
     font-size: 20px;
     color: #161300;
@@ -36,17 +36,17 @@ p{
     padding: 10px;
  }
 header{
-    font-size: 30px;
+    font-size: 50px;
     padding:10px;
-    background-color:#a37fff;
+    background-color:#03b8c2;
 }
 nav{
-    background-color: #9b5683;
+    background-color: #f9028a;
     padding:10px;
 }
 
 footer{
-    background-color: #f18dce;
+    background-color: #ff77ab;
     padding:10px;
 }
 h1{
@@ -56,5 +56,5 @@ h1{
 }
 
 div{
-    background-color: #f59ccf;
+    background-color: #ffaad6;
 }
