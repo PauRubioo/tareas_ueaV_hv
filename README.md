@@ -14,4 +14,4 @@ El objetivo de este repositorio es mostrar el avance que llevo sobre la creació
 ## Web:
 En cuanto a mi relación con la tecnología web, he notado que usar herramientas como Visual Studio Code, me ha ayudado a evolucionar en los proyectos con programación.
 
-En mi formación universitaria, el uso de tecnología me ha permitido aplicar conceptos teóricos a proyectos prácticos, lo que ha reforzado mi comprensión de los temas los temas. Además me ha dado la oportunidad de explorar y experimentar con diferentes tecnologías y herramientas lo que ah ampliado mi perspectiva y un poco de mis habilidades en el desarrollo web. 👍
+En mi formación universitaria, el uso de tecnología me ha permitido aplicar conceptos teóricos a proyectos prácticos, lo que ha reforzado mi comprensión de los los temas. Además me ha dado la oportunidad de explorar y experimentar con diferentes tecnologías y herramientas lo que ah ampliado mi perspectiva y un poco de mis habilidades en el desarrollo web. 👍
