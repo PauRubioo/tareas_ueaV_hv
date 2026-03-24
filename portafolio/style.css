@@ -11,7 +11,7 @@ h1{
 p{
     margin-left:20px;
     margin-right: 20px;
-    font-size: 20px;
+    font-size: 25px;
     color: #161300;
 }
 
@@ -21,7 +21,8 @@ p{
  .fotos{
     background-color: #cbe7ec;
     border-style: none;
-    margin:0px;
+    margin-left:20px;
+    margin-right:20px;
     padding: 5px;
     display: flex;
     justify-content: center;
@@ -50,12 +51,17 @@ footer{
     padding:10px;
 }
 h1{
-    color:#b279d3
+    color:#410c22
 }
-.container{display:flex
+h2{
+    color:#410c22;
+}
+.container{
+    display:flex
 }
 
 div{
     background-color: #ffaad6;
+    border-radius: 20px;
 }
 
